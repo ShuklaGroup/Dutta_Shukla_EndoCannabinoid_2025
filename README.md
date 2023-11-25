@@ -9,5 +9,14 @@ This repository contains all the scripts and links (box folder) for the necessay
 - Main_Figure_3D.py: script for generating scatter plot shown in Main Figure 3D. 
 - Links for necessary files to generate figures : https://uofi.box.com/s/43j2ekwogkoehuaeqwk8zr2wwz6u81pr
 
+## Main_Figure_4
 
+## Main_Figure_5
 
+## Main_Figure_6
+
+## Main_Figure_7
+
+## Main_Figure_8
+## Main_Figure_9
+## Main_Figure_10
