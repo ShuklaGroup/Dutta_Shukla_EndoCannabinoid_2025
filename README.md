@@ -17,11 +17,18 @@ This repository contains all the scripts and links (box folder) for the necessay
 - Links for necessary files to generate figures : https://uofi.box.com/s/swutt92hu1n0wnq5qlq21ok3mh0w4431
 
 ## Main_Figure_5
-
-
+- Main_figure_5A.py: scripts for generating contour plot shown in Main Figure 5A
+- Links for necessary files to generate figures : https://uofi.box.com/s/ionq1gy4wb3vfu7z8h9pfaayt2l7v04y
+  
 ## Main_Figure_6
-
+- Main_Figure_6A.py: script for generating bar plot shown in Main Figure 4A. 
+- Main_Figure_6B.py: script for generating heatmap shown in Main Figure 4B.
+- Main_Figure_6C.py: script for calculating the mean free passage time as shown in Main Figure 4C. 
+- Main_Figure_6D.py: script for calculating K-L divergence between macrostates as shown in Main Figure 4D. 
+- Links for necessary files to generate figures : https://uofi.box.com/s/swutt92hu1n0wnq5qlq21ok3mh0w4431
+  
 ## Main_Figure_7
+
 
 ## Main_Figure_8
 ## Main_Figure_9
