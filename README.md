@@ -41,4 +41,4 @@ This repository contains all the scripts and links (box folder) for the necessay
 - Main_Figure_10D.py: script for generating density plot shown in Main Figure 10D.
 - Main_Figure_10F.py: script for generating density plot shown in Main Figure 10F.
 
-- Links for necessary files to generate figures : https://uofi.box.com/s/q9w1f99mybxo6hrgo8sfr3sbm3l8xrmu
+Links for necessary files to generate figures : https://uofi.box.com/s/q9w1f99mybxo6hrgo8sfr3sbm3l8xrmu
